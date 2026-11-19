@@ -1,19 +1,19 @@
-** TWI ONE TOKEN TRADE WORLD INVESTMENT 
+## TWI ONE TOKEN TRADE WORLD INVESTMENT 
 ​Official Whitepaper: TWI ONE Token ($TWI)
-​* Token Name: TWI ONE
-* Token Symbol: TWI
-Maximum Supply: 10,000,000 TWI (Fixed Supply)
+​## Token Name: TWI ONE
+## Token Symbol: TWI
+# Maximum Supply: 10,000,000 TWI (Fixed Supply)
 * Issuer: Petra Coin LLC (Registered in Washington, USA)
 Real-World Asset (RWA) Backing Entity: 100JORDAN Group ($1,410,000 USD Fully Paid-Up in Real External Investments)
-** TON Smart Contract Address (Jetton Master): EQCPminx5MyA3SotgltBwVp5KoQTSQU1XLBcmjsX92xS9tru
-** Ethereum Smart Contract Address: 0x9D672Ede12EC5A367daFe6226EFEc2f37C6B4BCE
+# TON Smart Contract Address (Jetton Master): EQCPminx5MyA3SotgltBwVp5KoQTSQU1XLBcmjsX92xS9tru
+# Ethereum Smart Contract Address: 0x9D672Ede12EC5A367daFe6226EFEc2f37C6B4BCE
 Verified Etherscan Explorer Link:
 https://etherscan.io/token/0x9D672Ede12EC5A367daFe6226EFEc2f37C6B4BCE
-​* 1. Executive Summary
+​# 1. Executive Summary
 ​TWI ONE (TWI) is the multi-chain digital asset issued under the Trade World Investment (TWI) framework by Petra Coin LLC in Washington, USA, with a strictly capped total supply of 10,000,000 TWI and backed by $1,410,000 USD in fully paid-up real-world assets and active external investments held by 100JORDAN Group. Deployed across The Open Network (TON) and Ethereum Mainnet, the token connects decentralized financial infrastructure with real-world economic, tourism, aviation, hospitality, and trade execution across the integrated TWI Business Ecosystem.
-​** 2. TWI Business Ecosystem & Core Platforms
+​# 2. TWI Business Ecosystem & Core Platforms
 ​The TWI ONE (TWI) token serves as the unified utility and value layer connecting the four primary digital and operational pillars of the ecosystem:
-​** TWI BUSINESS:
+​TWI BUSINESS:
 https://twibusiness.com
 (Corporate operations, commercial trade structuring, and international business development hub)
 ** TWI INVESTMENT:
@@ -25,7 +25,7 @@ https://twitourismworldinvestment.com
 ​** TWI BusinessesNetwork:
 https://twibusinessnetwork.com
 (Global B2B networking, strategic partnerships, and cross-border enterprise connectivity platform)
-​3. Tokenomics & Multi-Chain Deployment Parameters
+​##3. Tokenomics & Multi-Chain Deployment Parameters
 ​** Token Name: TWI ONE
 ​# Symbol: TWI
 ​** Maximum Supply: 10,000,000 TWI (10 Million Tokens)
